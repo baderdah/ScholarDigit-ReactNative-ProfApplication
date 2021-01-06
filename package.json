@@ -13,7 +13,7 @@
     "@react-navigation/native": "^5.1.5",
     "@react-navigation/stack": "^5.2.10",
     "Base64": "^1.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "file-saver": "^2.0.2",
     "jwt-decode": "^2.2.0",
